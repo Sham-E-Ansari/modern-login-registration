@@ -25,13 +25,13 @@ const backdropVariants = {
         width: "223%",
         height: "1050px",
         borderRadius : "20",
-        transform: "rotate(60deg)"
+        transform: "rotate(350deg)"
     },
     collapsed:{
         width: "160%",
         height: "550px",
         borderRadius : "50",
-        transform: "rotate(60deg)"
+        transform: "rotate(350deg)"
     }
 }
 const expandingTransition = {
